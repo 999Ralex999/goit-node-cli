@@ -1,0 +1,14 @@
+[
+  {
+    "id": "6c43817fc11756bbdec6783bde8db39a",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "phone": "123456789"
+  },
+  {
+    "id": "2676297a50e6147f4e3453f5b46a2974",
+    "name": "Bob",
+    "email": "bob@example.com",
+    "phone": "987654321"
+  }
+]

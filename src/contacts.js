@@ -2,7 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import crypto from "crypto";
 
-const contactsPath = path.resolve("db/contacts.json");
+const contactsPath = path.resolve("src/db/contacts.json");
 
 async function listContacts() {
   try {
